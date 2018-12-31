@@ -9,7 +9,7 @@
 	Display all existing stock on the console output (System.out)
 	Return a sorted set of unique titles that the bookstore has in stock (no duplicates, sort in the natural alphabetical order of String)
 
-	Must use a map to store the count of books in stock and update these counts when books are added or removed
+	Use a map to store the count of books in stock and update these counts when books are added or removed
 	*/
 	
 	public class Bookstore_count {
